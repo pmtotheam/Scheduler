@@ -1,0 +1,9 @@
+Scheduler:
+Scheduler app will work as part from Hospital.
+Doctor's assistant can view doctor's schedule and if the doctor is not able to see the patient he(assistant) will notify the 
+patient through gmail using our app.
+
+ClientPrototype:
+This will work from patient side where he will be able to create appointment at any time depending upon doctor's schedule.
+The user will be given id so that he can view all his appointment through the app. 
+ 
