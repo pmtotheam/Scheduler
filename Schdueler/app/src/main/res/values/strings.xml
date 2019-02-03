@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Schdueler</string>
+
+    <string-array name="days_array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thrusday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string-array name="time_array">
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="ampm_array">
+        <item>am</item>
+        <item>pm</item>
+    </string-array>
+    <string name="choose_speciality">Choose Speciality</string>
+    <string name="choose_doctor">Choose Doctor</string>
+    <string name="docname">Doctor Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="dockey">dockey</string>
+    <string name="phnkey">phnkey</string>
+    <string name="sclkey">sclkey</string>
+    <string name="docid">DoctorID</string>
+    <string name="docschedule">DocSchedule</string>
+    <string name="docspeciality">DocSpeciaity</string>
+    <string name="removeschedule">Shift Schedule</string>
+    <string name="messagetosend">Message to send</string>
+    <string name="sendmessage">Send Message</string>
+    <string name="subject">Issue regarding your appointment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="anaes">Anaesthesiology</string>
+    <string name="cardiol">Cardiology</string>
+    <string name="diabeto">Diabetology</string>
+    <string name="nephro">Nephrology</string>
+    <string name="neurol">Neurology</string>
+    <string name="oncolo">Oncology</string>
+    <string name="physio">Physiotherapy</string>
+    <string name="radiol">Radiology</string>
+    <string name="urolog">Urology</string>
+
+    <string-array name="speciality_array">
+        <item>@string/choose_speciality</item>
+        <item>@string/anaes</item>
+        <item>@string/cardiol</item>
+        <item>@string/diabeto</item>
+        <item>@string/nephro</item>
+        <item>@string/neurol</item>
+        <item>@string/oncolo</item>
+        <item>@string/physio</item>
+        <item>@string/radiol</item>
+        <item>@string/urolog</item>
+    </string-array>
+
+    <string name="selectday">Select Day</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+</resources>
